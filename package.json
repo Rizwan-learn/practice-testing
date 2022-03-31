@@ -1,0 +1,24 @@
+{
+  "name": "test-practice-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tufahel/test-practice-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tufahel/test-practice-jest/issues"
+  },
+  "homepage": "https://github.com/Tufahel/test-practice-jest#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "dependencies": {}
+}
