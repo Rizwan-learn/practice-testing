@@ -1,4 +1,4 @@
-const reverseString = require('./task2.js');
+const reverseString = require('./test2.js');
 
 describe('reverseString', function () {
   it('check reverse string', function () {

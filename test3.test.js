@@ -1,4 +1,4 @@
-const calculator = require('./task3.js');
+const calculator = require('./test3.js');
 
 describe('calculator', function () {
   const a = 6;
