@@ -19,6 +19,5 @@
   "homepage": "https://github.com/Tufahel/test-practice-jest#readme",
   "devDependencies": {
     "jest": "^27.5.1"
-  },
-  "dependencies": {}
+  }
 }
